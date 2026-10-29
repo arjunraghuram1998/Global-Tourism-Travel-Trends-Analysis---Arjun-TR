@@ -16,4 +16,9 @@ Data Source: Kaggle
 2. Use 1st row as header
 3. Expenses changed to currency USD
 
+# Data Visualisation
+The Data has been load to Power Bi and Data Visualization done
+
+# Dashboards Created
+
 
